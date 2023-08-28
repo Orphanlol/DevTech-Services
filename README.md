@@ -1,2 +1,4 @@
 # DevTech-Services
-About Us
+
+DevTech is a small group of hobbyist programmars/developers
+We specialize in CyberSecurity
