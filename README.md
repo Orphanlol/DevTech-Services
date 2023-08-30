@@ -19,7 +19,8 @@ DevTech Services is a small group of hobbyist programmers/developers.
 We specialize in:
 - Cybersecurity
 ## 🚧 Creations
-- DevHaxx, a in-beta i-Ready hack
+- Devhub, a proxy with high speeds and many tools
+- DevHaxx, a in-beta i-Ready tool
 ---
 
 <p align="center">
